@@ -1,5 +1,12 @@
 # Netflix Clone
-Clone of actual Netflix Website
+Mini Clone of actual Netflix Website
+
+# Features
+
+1. Checkour Landing page of Netflix.
+2. Check featured & top recommended content to watch (static).
+3. Search movies by name which are loaded dynamically.
+4. Browse Top 10 movies of all time.
 
 Screenshots of different implemented functionalities. Check hosted website [here](https://vibrantachintya.github.io/netflix-clone/).
 
