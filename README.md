@@ -1,5 +1,5 @@
 # Netflix Clone
-Mini Clone of actual Netflix Website
+Mini Clone of actual Netflix Website. Check hosted website [here](https://vibrantachintya.github.io/netflix-clone/).
 
 # Features
 
@@ -8,7 +8,7 @@ Mini Clone of actual Netflix Website
 3. Search movies by name which are loaded dynamically.
 4. Browse Top 10 movies of all time.
 
-Screenshots of different implemented functionalities. Check hosted website [here](https://vibrantachintya.github.io/netflix-clone/).
+Screenshots of different implemented functionalities.
 
 ![](https://raw.githubusercontent.com/vibrantachintya/netflix-clone/main/images/netflix_screenshot1.png)
 ![](https://raw.githubusercontent.com/vibrantachintya/netflix-clone/main/images/netflix_screenshot2.png)
